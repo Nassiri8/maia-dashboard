@@ -11,3 +11,9 @@ routes:
 VueJS: 
 
     - http outils: axios 
+
+
+RUN:
+
+    - npm install
+    - npm start app.js
