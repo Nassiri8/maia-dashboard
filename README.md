@@ -1,6 +1,8 @@
 # maia-Test
 
 API-MAIA: 
+    Mini dashboard pour gerer des aliments.
+    Stack: NodeJs/Mongo VueJs
 
 - routes:
 
